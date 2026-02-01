@@ -26,7 +26,7 @@ Problem Solving and Critical Thinking
 
 Data analysis projects
 Dashboards and reports
-Practical solutions to real world data problems
+Practical solutions to real world data problems.
 
 Basically: projects that show what I can do.
 
