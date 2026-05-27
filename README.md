@@ -1,4 +1,4 @@
-# Hi there, I'm Anastesia Okoli 👋
+# Hi there, I'm Anastesia Kosi Okoli 👋
 
 Welcome to my little corner of GitHub where data meets curiosity, coffee meets deadlines, and dashboards slowly become beautiful.
 
